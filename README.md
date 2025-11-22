@@ -159,6 +159,9 @@ A more detailed explanation of the project is available in the documentation PDF
 - Clean, professional **data storytelling**
 
 ---
+# 🖼️ Dashboard Preview
+
+![Dashboard Preview](assets/Sales%20Report%20Screenshot.png)
 
 ## 🤝 Feedback & Contact
 
