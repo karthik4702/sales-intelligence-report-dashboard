@@ -161,7 +161,8 @@ A more detailed explanation of the project is available in the documentation PDF
 ---
 # 🖼️ Dashboard Preview
 
-![Dashboard Preview](assets/Sales_Report_Screenshot.jpg)
+![Dashboard Preview](Sales%20Report%20Screenshot.jpg)
+
 
 
 
