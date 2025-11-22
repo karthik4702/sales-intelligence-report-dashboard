@@ -169,6 +169,3 @@ This is a portfolio project, and I’m always open to feedback and improvement i
 
 If you found this useful or have suggestions, feel free to reach out or open an issue in the repository. 😊
 
-
-│
-└── README.md
