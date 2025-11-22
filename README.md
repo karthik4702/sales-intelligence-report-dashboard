@@ -126,25 +126,49 @@ These KPIs are powered by **calculated measures** in the data model and update d
    - Apply consistent **purple–lavender–lime** color theme.  
    - Format fonts, titles, borders, slicers, and chart layouts for a clean UI.
 
+## 🚀 How to Use
+
+1. Download or clone this repository.  
+2. Open `Sales_Intelligence_Report.xlsx` in **Microsoft Excel**.  
+3. Enable content/macros if prompted.  
+4. Use the **slicers** (Region, Category, Month, Ship Mode) to filter visuals.  
+5. Review **KPI cards** and charts to explore sales, profit, returns, and regional performance.
+
 ---
 
-## 📂 Repository Structure
+## 📘 Documentation
 
-> You can adjust file/folder names as per your actual repo.
+A more detailed explanation of the project is available in the documentation PDF (if included in this repo), which covers:
 
-```bash
-.
-├── data/
-│   └── Sales_Data.xlsx                # (Optional) Raw/cleaned data source
-│
-├── dashboard/
-│   └── Sales_Intelligence_Report.xlsx # Main Excel dashboard
-│
-├── documentation/
-│   ├── Sales_Intelligence_Report_ColorAccents_Final_v2.pdf  # Project report
-│   └── Fraud_Analysis_Dashboard_Styled.pdf                  # (If you include it)
-│
-├── assets/
-│   └── dashboard_screenshot.png       # Screenshot of the Excel dashboard
+- Project objective  
+- Data sources & modelling  
+- KPI logic & measures  
+- Dashboard design choices  
+- Key business insights  
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Advanced **Excel for analytics**  
+- **Power Query** (ETL and data preparation)  
+- **Power Pivot** (data modelling & relationships)  
+- **Measure creation** using DAX-style logic  
+- **Dashboard design & information layout**  
+- **Interactive reporting** with slicers & KPIs  
+- Clean, professional **data storytelling**
+
+---
+
+## 🤝 Feedback & Contact
+
+This is a portfolio project, and I’m always open to feedback and improvement ideas.
+
+- 💼 **LinkedIn:** _[www.linkedin.com/in/karthik-s-128546310]_  
+- 📧 **Email:** _[karthik4702@gmail.com]_  
+
+If you found this useful or have suggestions, feel free to reach out or open an issue in the repository. 😊
+
+
 │
 └── README.md
